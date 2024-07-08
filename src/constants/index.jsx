@@ -39,7 +39,7 @@ const K = {
             title:"Amazing Deals",
             description: "Far far away, behind the word mountains, far from the countries Vokalia.",
             // Icon: <Handshake/>, 
-            bgColor: "#FECDD3",
+            bgColor: "#F9E7B9",
             iconBg:"#FB7185"
         },
         {

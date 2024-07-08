@@ -8,7 +8,7 @@ const Services = () => {
         K.SERVICES.map(
           (service, index) => {
             return <div key={index} className={``} style={{backgroundColor: service.bgColor}}>
-              <span ><Handshake/></span>
+              <span className=""><Handshake/></span>
               <h3>{service.title}</h3>
               <p>{service.description}</p>
 

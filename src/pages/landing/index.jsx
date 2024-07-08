@@ -1,3 +1,4 @@
+import Footer from "../../components/footer";
 import Navbar from "../../components/navbar";
 import About from "./components/about";
 import Collection from "./components/collection";
@@ -11,6 +12,7 @@ const LandingPage = () => {
       <Services/>
       <About/>
       <Collection/>
+     
       
     </div>
   )
